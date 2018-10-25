@@ -1,0 +1,17 @@
+#big-logo{
+    font-family: monospace !important;
+    font-weight: 250;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+#menu-top{
+    /* float: right !important; */
+    margin-left: 80% !important; 
+}
+#menu-item{
+    float: left;
+    margin-right: 10px;
+}
+.navbar{
+    padding: 0 0;
+} 
